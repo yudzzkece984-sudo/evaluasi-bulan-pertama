@@ -59,3 +59,7 @@ Contoh hasilnya
 https://contoh-evaluasi.vercel.app (Jangan terlalu sama, kembangkan sesuai kekreatifan kalian).
 contoh repository
 https://github.com/FikriBaihaqi73/contoh-evaluasi
+
+
+Link DEPLOY[Vercel]:
+https://evaluasi-bulan-pertama.vercel.app/projects/project3.html
